@@ -195,6 +195,36 @@ Prefix length
 
 ![Screenshot 2024-12-28 at 11 51 07 PM](https://github.com/user-attachments/assets/bc87e6f7-74cf-40dd-abcd-ae4259cc074a)
 
+**Question 2(c) (6 marks)**
+
+Starting from the left of Figure Q2, assign Subnet 10, Subnet 20, Subnet 30, Subnet 40, Subnet 50, Subnet 60, Subnet 70, … to all the networks you have circled in Q2(a).
+
+Based on seven subnet bits, obtain the IP address of the first six subnets based on the subnet list given above. 
+
+That is from Subnet 10 to Subnet 60. Show your binary working bits.
+
+**ANS:**
+
+![Screenshot 2024-12-28 at 11 55 58 PM](https://github.com/user-attachments/assets/9ea902e2-5f02-4c18-8071-729b4d3093cb)
+![Screenshot 2024-12-28 at 11 56 12 PM](https://github.com/user-attachments/assets/8c1b66ac-7fa6-424e-899e-adbe8375f446)
+![Screenshot 2024-12-28 at 11 56 25 PM](https://github.com/user-attachments/assets/1c62064c-deb1-4d42-8fb5-7cd3954c1fea)
+
+**Question 2(d) (4 marks)**
+
+Based on seven subnet bits, obtain the entire usable host range for Subnet 10 and Subnet 20. 
+
+Show your working.
+
+**ANS:**
+
+![Screenshot 2024-12-28 at 11 57 46 PM](https://github.com/user-attachments/assets/dc94e456-2bb1-4604-9ee8-0998f5efec96)
+![Screenshot 2024-12-28 at 11 57 59 PM](https://github.com/user-attachments/assets/ff1af671-6cba-4db5-8a48-c3a071dc9ed0)
+
+
+
+
+
+
 
 
 
