@@ -220,6 +220,42 @@ Show your working.
 ![Screenshot 2024-12-28 at 11 57 46 PM](https://github.com/user-attachments/assets/dc94e456-2bb1-4604-9ee8-0998f5efec96)
 ![Screenshot 2024-12-28 at 11 57 59 PM](https://github.com/user-attachments/assets/ff1af671-6cba-4db5-8a48-c3a071dc9ed0)
 
+**Question 2(e)**
+
+Copy Figure Q2 to your answer script. On the diagram you have drawn, indicate the following:
+
+**Question 2(e)(i) (2 marks)**
+
+The interfaces of all the routers and SwitchA that you will use to set up the network
+
+**ANS:**
+
+![Screenshot 2024-12-29 at 12 08 16 AM](https://github.com/user-attachments/assets/13389f87-19ad-4ebd-9d31-9172bfe09393)
+
+**Question 2(e)(ii) (9 marks)**
+
+Based on your Q2(c) answers, assign an appropriate IP address to all the PCs, the two switches, and the routers' interfaces. 
+
+Assign starting from the first usable host IP address of each subnet to as many host IP addresses as you need. 
+
+Indicate the IP addresses on the diagram drawn. 
+
+Explain your answers to the IP addresses of the two switches.
+
+**ANS:**
+
+![Screenshot 2024-12-29 at 12 08 40 AM](https://github.com/user-attachments/assets/c464e3d9-8ea2-4e59-aa9a-8d1cfece0fbc)
+![Screenshot 2024-12-29 at 12 08 58 AM](https://github.com/user-attachments/assets/3aaf342e-37de-4842-9233-434d961aa8ad)
+![Screenshot 2024-12-29 at 12 09 17 AM](https://github.com/user-attachments/assets/40508349-8f1a-41f4-bfa6-a70c30481cd4)
+![Screenshot 2024-12-29 at 12 09 28 AM](https://github.com/user-attachments/assets/f4657712-1d6f-4517-9cb1-71c9b80d346a)
+![Screenshot 2024-12-29 at 12 09 40 AM](https://github.com/user-attachments/assets/04997cf0-116a-4d38-bd16-36a5a05c24ec)
+![Screenshot 2024-12-29 at 12 09 51 AM](https://github.com/user-attachments/assets/6b4d3a8a-1166-4298-842f-9149c83387a7)
+![Screenshot 2024-12-29 at 12 10 01 AM](https://github.com/user-attachments/assets/961f0f0a-6da6-450f-8685-86858a0b0b78)
+
+
+
+
+
 
 
 
