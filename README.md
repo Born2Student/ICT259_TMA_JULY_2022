@@ -1,4 +1,4 @@
-![Screenshot 2024-12-28 at 11 47 20 PM](https://github.com/user-attachments/assets/11396c59-cb50-41c8-89bb-b811aeebfd5e)![image](https://github.com/user-attachments/assets/027a04be-0958-4ae0-a3cc-e0743149aea6)![image](https://github.com/user-attachments/assets/28edaa26-cad8-49e0-9f1d-e55cb4198914)# ICT259 - Computer Networking
+# ICT259 - Computer Networking
 
 # ICT259 Tutor-Marked Assignment (TMA01) - July Semester 2022
 
