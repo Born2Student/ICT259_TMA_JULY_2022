@@ -1,4 +1,4 @@
-# ICT259 - Computer Networking
+![Screenshot 2024-12-28 at 11 47 20 PM](https://github.com/user-attachments/assets/11396c59-cb50-41c8-89bb-b811aeebfd5e)![image](https://github.com/user-attachments/assets/027a04be-0958-4ae0-a3cc-e0743149aea6)![image](https://github.com/user-attachments/assets/28edaa26-cad8-49e0-9f1d-e55cb4198914)# ICT259 - Computer Networking
 
 # ICT259 Tutor-Marked Assignment (TMA01) - July Semester 2022
 
@@ -107,22 +107,93 @@ Since the source MAC address from the frame is not stored in the switch MAC addr
 As part of the frame filtering process, the switch will search for the destination MAC address by searching for a possible destination MAC address match from within the MAC address table. In a situation where a match has been found in the MAC address table of the switch and incoming port being used is the exact same as the destination port, the switch would then instead filter the frame by discarding it and transmitting it to PC2 without causing any damage to PC2 as it already has received the frame. 
 
 
-
-
-
 **Question 1(b)(iv) (3 marks)**
 
 PC 1 sends a multicast frame
 
 **ANS:**
 
+**Learning MAC Addresses**
 
+Firstly, PC1 will transmit a multicast frame to the switch. 
+
+In the process of learning, the switch learns that the multicast frame was transmitted by PC1 from its respective port value Fa0/1.
+
+The switch would then identify the source MAC address stored in the multicast frame layer 2 Ethernet header. 
+
+Since the source MAC address from the multicast frame is not stored in the switch MAC address table, the switch will therefore store the frame MAC address and its respective port value and in this case is Fa0/1 to the MAC address table.
+
+![Screenshot 2024-12-28 at 11 42 03 PM](https://github.com/user-attachments/assets/f2b0670c-e1da-442d-89df-ea555335e71d)
+
+**Forwarding A Multicast Frame:**
+
+As part of the forwarding process, the switch would determine whether the frame is a multicast or broadcast frame by checking its destination MAC address. Since in this situation it is a multicast frame, the switch would the transmit the multicast frame to all of its respective ports which are Fa0/2 and Fa0/3 excluding the incoming port value Fa0/1.
 
 **Question 1(b) (8 marks)**
 
 <img width="623" alt="Screenshot 2024-12-28 at 5 40 53 PM" src="https://github.com/user-attachments/assets/b7a02e6c-1d8e-4a44-b644-6c51a4d53298" />
 
 **ANS:**
+
+![Screenshot 2024-12-28 at 11 42 34 PM](https://github.com/user-attachments/assets/33fd9978-7dda-4888-a244-0f90fce182e8)
+
+
+### Question 2 (27 marks)
+
+The network topology in Figure Q2 has network address 50.0.0.0. PC1 is a member of the IT-VLAN, and PC2 is a member of the ENG-VLAN.
+
+![Screenshot 2024-12-28 at 11 44 13 PM](https://github.com/user-attachments/assets/5e9e243c-9829-412d-a2c7-887d1088de67)
+
+Apply an IPv4 addressing scheme using a fixed-length subnet mask to the network. Illustrate your scheme by completing the following tasks.
+
+**Question 2(a) (4 marks)**
+
+Copy Figure Q2 to your answer script. 
+
+Use the shape of a rectangle to represent the PC and switch, and an oval for the router. 
+
+Label all the devices with names either inside or beside the shaped objects. 
+
+Indicate the following on the diagram you have drawn.
+
+**Question 2(a)(i)**
+
+All the networks by enclosing each with a circle
+
+**ANS:**
+
+![Screenshot 2024-12-28 at 11 46 53 PM](https://github.com/user-attachments/assets/9b156a21-7736-4631-abb0-e0d685f1fc86)
+
+**Question 2(a)(ii)**
+
+The location of the default gateway(s) by a pointing arrow with labels
+
+**ANS:**
+
+![Screenshot 2024-12-28 at 11 47 20 PM](https://github.com/user-attachments/assets/99f909b7-4388-4a75-a3bb-de5dd2dc62c7)
+
+**Question 2(b) (2 marks)**
+
+If the network administrator uses seven subnet bits, give the subnet mask in the following representations. 
+
+Explain your answer.
+
+**Question 2(b)(i)**
+
+Dotted decimal notation
+
+**ANS:**
+
+![Screenshot 2024-12-28 at 11 50 11 PM](https://github.com/user-attachments/assets/a785c88f-31b4-4f58-9fc5-98e3d22d68ad)
+![Screenshot 2024-12-28 at 11 50 24 PM](https://github.com/user-attachments/assets/3bc1d0c7-e125-4b24-b2a0-f3689c44f5e1)
+
+**Question 2(b)(ii)**
+
+Prefix length
+
+**ANS:**
+
+![Screenshot 2024-12-28 at 11 51 07 PM](https://github.com/user-attachments/assets/bc87e6f7-74cf-40dd-abcd-ae4259cc074a)
 
 
 
