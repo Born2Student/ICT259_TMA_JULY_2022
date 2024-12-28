@@ -253,16 +253,15 @@ Explain your answers to the IP addresses of the two switches.
 ![Screenshot 2024-12-29 at 12 10 01 AM](https://github.com/user-attachments/assets/961f0f0a-6da6-450f-8685-86858a0b0b78)
 
 
+### Question 4 (8 marks)
 
+![Screenshot 2024-12-29 at 12 14 40 AM](https://github.com/user-attachments/assets/75078cdd-e910-465e-b6b6-eaab7d884728)
+![Screenshot 2024-12-29 at 12 14 56 AM](https://github.com/user-attachments/assets/6af31a6c-f52b-4a23-ae44-ff7e8b139b5d)
 
+**ANS:**
 
-
-
-
-
-
-
-
-
+![Screenshot 2024-12-29 at 12 15 44 AM](https://github.com/user-attachments/assets/f75e5732-0450-4232-a251-f618288da4fe)
+![Screenshot 2024-12-29 at 12 15 57 AM](https://github.com/user-attachments/assets/171ba4ae-8151-4f85-b330-693a1997f5f5)
+![Screenshot 2024-12-29 at 12 16 08 AM](https://github.com/user-attachments/assets/87e70d13-38c1-40bb-9388-cf6ca84fddcf)
 
 
