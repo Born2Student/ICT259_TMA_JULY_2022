@@ -253,6 +253,52 @@ Explain your answers to the IP addresses of the two switches.
 ![Screenshot 2024-12-29 at 12 10 01 AM](https://github.com/user-attachments/assets/961f0f0a-6da6-450f-8685-86858a0b0b78)
 
 
+### Question 3 (40 marks)
+
+This question is based on your answers to Q2. If you cannot complete Q2 or have no confidence in your answers, you may use the IP addresses given in Figure Q3 to answer Question 3.
+
+However, 5 marks will be deducted from your total marks for this question.
+
+![Screenshot 2024-12-29 at 11 35 33 PM](https://github.com/user-attachments/assets/fdac9a58-4994-4bbc-8b00-52b2ff654fd4)
+
+Discuss how network protocols and standards facilitate the transfer of data in this network by answering the following based on your answers to Q2:
+
+**Question 3(a) (6 marks)**
+
+Assume that all the routers in the network shown in Figure Q2 are enabled with only Routing Information Protocol version 2 (RIPv2) routing protocol. 
+
+Write down the router configuration commands to be entered on all the routers to achieve reachability in the entire network.
+
+**ANS:**
+
+![Screenshot 2024-12-29 at 11 38 56 PM](https://github.com/user-attachments/assets/18547968-0400-4644-9810-8da3e8abb01a)
+
+**Question 3(b) (6 marks)**
+
+Assume all the routers are configured with RIPv2 routing protocol. 
+
+It is desired to have backup static routes for PC1 to reach PC3 and vice versa via Routers A, B, and C. 
+
+Give the configuration command(s) to set up the static routes and indicate the router(s) where the commands are implemented.
+
+**ANS:**
+
+![Screenshot 2024-12-29 at 11 39 38 PM](https://github.com/user-attachments/assets/c28c4703-9dcf-4726-996c-43c563db9083)
+
+
+**Question 3(c) (4 marks)**
+
+![Screenshot 2024-12-29 at 11 38 12 PM](https://github.com/user-attachments/assets/250af626-e02d-4efd-a874-9ab6982f74c2)
+
+**ANS:**
+
+![Screenshot 2024-12-29 at 11 41 06 PM](https://github.com/user-attachments/assets/cf96ba70-8392-49d0-be5f-ea342a3240b8)
+
+
+
+
+
+
 ### Question 4 (8 marks)
 
 ![Screenshot 2024-12-29 at 12 14 40 AM](https://github.com/user-attachments/assets/75078cdd-e910-465e-b6b6-eaab7d884728)
