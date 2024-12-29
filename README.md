@@ -294,6 +294,55 @@ Give the configuration command(s) to set up the static routes and indicate the r
 
 ![Screenshot 2024-12-29 at 11 41 06 PM](https://github.com/user-attachments/assets/cf96ba70-8392-49d0-be5f-ea342a3240b8)
 
+**Question 3(d)**
+
+Setup the VLANs for SwitchA and configure the IP addresses for the 2 switches. 
+
+Save your work to the same file name created in Q3(c)
+
+**Question 3(d)(i) (2 marks)**
+
+![Screenshot 2024-12-29 at 11 48 31 PM](https://github.com/user-attachments/assets/7552f3d0-3dac-4207-abd9-c5ab24694389)
+![Screenshot 2024-12-29 at 11 48 41 PM](https://github.com/user-attachments/assets/58dee945-0979-43ec-8c6f-c060cab00137)
+
+**ANS:**
+
+![Screenshot 2024-12-29 at 11 52 34 PM](https://github.com/user-attachments/assets/29d7154b-4430-4a28-8933-cba925703a63)
+
+**Question 3(d)(ii) (2 marks)**
+
+You can also check the VLAN membership by issuing the show run command as shown below.
+
+SwitchA#show run
+
+If there is a more at the bottom of the page, press the space bar on your keyboard to advance to the next page.
+
+Take a screenshot of the VLAN membership of your created VLANs and paste it to your MS WORD answer script.
+
+**ANS:**
+
+![Screenshot 2024-12-29 at 11 53 25 PM](https://github.com/user-attachments/assets/1abad9ce-a7b3-41ff-b804-6915c52be992)
+![Screenshot 2024-12-29 at 11 53 55 PM](https://github.com/user-attachments/assets/100af427-f00d-4f03-a213-b1c3840e862d)
+
+**Question 3(d)(iii) (1 marks)**
+
+From the show run listing, scroll down to look for the assigned IP address of SwitchA. 
+
+Take another screenshot that shows the IP address of SwithA and paste it to your MS WORD answer script.
+
+**ANS:**
+
+![Screenshot 2024-12-29 at 11 54 36 PM](https://github.com/user-attachments/assets/64eb799e-c957-4e4a-9de1-03bf2eaf23ef)
+
+**Question 3(d)(iv) (2 marks)**
+
+Take a screenshot of SwitchB's VLAN database (use show vlan) and another screenshot showing the assigned IP address of the SwitchB (use show run).
+
+Paste both screenshots to your MS WORD answer script.
+
+**ANS:**
+
+
 
 
 
