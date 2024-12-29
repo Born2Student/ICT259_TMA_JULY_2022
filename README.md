@@ -347,6 +347,74 @@ Paste both screenshots to your MS WORD answer script.
 ![Screenshot 2024-12-30 at 12 04 45 AM](https://github.com/user-attachments/assets/44055cb5-fd30-46c0-a036-49d2515b6368)
 
 
+**Question 3(e)**
+
+Implement the RIPv2 configuration commands you have written in Q3(a) on all the routers on the Packet Tracer topology. 
+
+Save your work to the same file name created in Q3(c).
+
+**Question 3(e)(i) (3 marks)**
+
+![Screenshot 2024-12-30 at 12 08 45 AM](https://github.com/user-attachments/assets/b7ab2cfb-61db-4a43-bae3-b0b46ce1e9be)
+![Screenshot 2024-12-30 at 12 08 58 AM](https://github.com/user-attachments/assets/6545795c-5997-4585-8155-26281e73c05d)
+
+**ANS:**
+
+
+
+**Question 3(e)(ii) (6 marks)**
+
+Check your router configurations by issuing the show run command as shown below.
+
+Router#show run
+
+Scroll through the listing so that the interface configurations and network statements are displayed on one page, as shown in the sample given in Figure Q3(e)(ii).
+
+![Screenshot 2024-12-30 at 12 10 31 AM](https://github.com/user-attachments/assets/6a6c3551-5c09-4fb9-9cd1-f9737790982a)
+
+Take a screenshot of each router's show run listing with the router's name, interface configurations, and network statements on one page, and paste it to your MS WORD answer script. 
+
+There should be three screenshots, one for each router. 
+
+Be sure the name of the router has your PI number.
+
+**ANS:**
+
+
+
+**Question 3(f) (4 marks)**
+
+Implement the backup static routes configuration commands you have written in Q3(b) on the appropriate routers of the Packet Tracer topology. 
+
+Save your work to the same file name created in Q3(c).
+
+Take a screenshot of each router's show run listing with the router's name, interface configurations, network statements, and static route(s) displayed on one page, and paste it to your MS WORD answer script. 
+
+There should be three screenshots, one for each router. 
+
+Be sure the name of the router has your PI number.
+
+**ANS:**
+
+
+
+**Question 3(g) (2 marks)**
+
+Verify your configurations by performing the following:
+
++ PC1 pings PC2
++ PC2 pings PC3
+
+Take a screenshot of each ping, and paste it to your MS WORD answer script. 
+
+Be sure the name of the PC has your PI number.
+
+**ANS:**
+
+
+
+
+
 ### Question 4 (8 marks)
 
 ![Screenshot 2024-12-29 at 12 14 40 AM](https://github.com/user-attachments/assets/75078cdd-e910-465e-b6b6-eaab7d884728)
