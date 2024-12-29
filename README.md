@@ -342,10 +342,9 @@ Paste both screenshots to your MS WORD answer script.
 
 **ANS:**
 
-
-
-
-
+![Screenshot 2024-12-30 at 12 03 43 AM](https://github.com/user-attachments/assets/8132ec80-28fc-47bc-b463-90a21b9138c2)
+![Screenshot 2024-12-30 at 12 04 11 AM](https://github.com/user-attachments/assets/4b794059-0bc6-4193-89cd-1a1bafd33691)
+![Screenshot 2024-12-30 at 12 04 45 AM](https://github.com/user-attachments/assets/44055cb5-fd30-46c0-a036-49d2515b6368)
 
 
 ### Question 4 (8 marks)
