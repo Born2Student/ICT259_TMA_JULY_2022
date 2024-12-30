@@ -1,4 +1,4 @@
-# ICT259 - Computer Networking
+![image](https://github.com/user-attachments/assets/d7cb0a68-6eb1-4232-b784-8b6b7c9c7180)# ICT259 - Computer Networking
 
 # ICT259 Tutor-Marked Assignment (TMA01) - July Semester 2022
 
@@ -408,9 +408,15 @@ Be sure the name of the router has your PI number.
 
 **ANS:**
 
+**Router RA-B2110802:**
+
 ![Screenshot 2024-12-30 at 10 08 40 AM](https://github.com/user-attachments/assets/e14b7a39-e2b3-48e0-8df6-d219af0b64d3)
 
+**Router RB-B2110802:**
+
 ![Screenshot 2024-12-30 at 10 09 23 AM](https://github.com/user-attachments/assets/1e87de3f-da51-47da-98c2-8c3835df7567)
+
+**Router RC-B2110802:**
 
 ![Screenshot 2024-12-30 at 10 09 51 AM](https://github.com/user-attachments/assets/63e60902-fbc6-448c-98bb-eed1c6cf2601)
 
@@ -429,6 +435,17 @@ Be sure the name of the router has your PI number.
 
 **ANS:**
 
+**Router RA-B2110802:**
+
+![Screenshot 2024-12-30 at 10 18 45 AM](https://github.com/user-attachments/assets/4bd254d4-3f5d-4d90-aef7-bef68a0d8e15)
+
+**Router RB-B2110802:**
+
+![Screenshot 2024-12-30 at 10 19 17 AM](https://github.com/user-attachments/assets/e8c364c7-aa0b-48f7-bc4f-2b5b47cd0344)
+
+**Router RC-B2110802:**
+
+![Screenshot 2024-12-30 at 10 19 51 AM](https://github.com/user-attachments/assets/df041d81-9acd-438e-a35b-e5b5cf07cf59)
 
 
 **Question 3(g) (2 marks)**
@@ -444,8 +461,13 @@ Be sure the name of the PC has your PI number.
 
 **ANS:**
 
+**PC1 pings PC2**
 
+![Screenshot 2024-12-30 at 10 24 48 AM](https://github.com/user-attachments/assets/9cf9cc69-6040-45d5-ae75-8e97dad451ce)
 
+**PC2 pings PC3**
+
+![Screenshot 2024-12-30 at 10 25 25 AM](https://github.com/user-attachments/assets/e661d9b2-a834-4de6-b14b-c5599277a73b)
 
 
 ### Question 4 (8 marks)
