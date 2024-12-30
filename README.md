@@ -360,7 +360,35 @@ Save your work to the same file name created in Q3(c).
 
 **ANS:**
 
+**Router RA-B2110802:**
 
+RA-B2110802>en
+RA-B2110802#conf t
+RA-B2110802 (config)#router rip
+RA-B2110802 (config-router)#version 2
+RA-B2110802 (config-router)# network 192.168.5.0 
+
+![Screenshot 2024-12-30 at 10 05 45 AM](https://github.com/user-attachments/assets/0c2861cb-f36c-4d98-9e74-99ec290a9458)
+
+**Router RB-B2110802:**
+
+RB-B2110802>en
+RB-B2110802#conf t
+RB-B2110802(config)#router rip
+RB-B2110802 (config-router)#version 2
+RB-B2110802 (config-router)# network 192.168.5.0
+
+![Screenshot 2024-12-30 at 10 06 38 AM](https://github.com/user-attachments/assets/7e7ce346-9900-4114-aad3-fde82a59e1d9)
+
+**Router RC-B2110802:**
+
+RC-B2110802>en
+RC-B2110802#conf t
+RC-B2110802(config)#router rip
+RC-B2110802 (config-router)#version 2
+RC-B2110802 (config-router)# network 192.168.5.0
+
+![Screenshot 2024-12-30 at 10 07 43 AM](https://github.com/user-attachments/assets/2aa784a6-2dfc-43a8-b00d-555a8b22bc96)
 
 **Question 3(e)(ii) (6 marks)**
 
@@ -380,6 +408,11 @@ Be sure the name of the router has your PI number.
 
 **ANS:**
 
+![Screenshot 2024-12-30 at 10 08 40 AM](https://github.com/user-attachments/assets/e14b7a39-e2b3-48e0-8df6-d219af0b64d3)
+
+![Screenshot 2024-12-30 at 10 09 23 AM](https://github.com/user-attachments/assets/1e87de3f-da51-47da-98c2-8c3835df7567)
+
+![Screenshot 2024-12-30 at 10 09 51 AM](https://github.com/user-attachments/assets/63e60902-fbc6-448c-98bb-eed1c6cf2601)
 
 
 **Question 3(f) (4 marks)**
